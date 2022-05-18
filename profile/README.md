@@ -8,3 +8,11 @@ Official website: https://sonia.etsmtl.ca/ <br />
 GitHub: https://github.com/sonia-auv/ <br />
 Documentation: https://wiki.sonia.etsmtl.ca/
 
+<ins>Socials</ins>: <br />
+LinkedIn: https://www.linkedin.com/company/soniaauv/ <br />
+Facebook: https://www.facebook.com/sonia.auv <br />
+Instagram: https://www.instagram.com/sonia_auv/ <br />
+YouTube: https://www.youtube.com/channel/UCjdWfvUTQCU8vEjyLb1q6Ug/ <br />
+Twitter: https://twitter.com/soniaauv
+
+
