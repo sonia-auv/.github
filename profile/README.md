@@ -1,4 +1,4 @@
-![MAIN IMAGE](https://i.ibb.co/dcshCvL/IMG-1266.jpg)
+![MAIN IMAGE](/profile/IMG_1266.JPG)
 
 SONIA (Système d’Opération Nautique Intelligent et Autonome) is a student-run technical club from École de technologie supérieure since 1999. Its members have built 9 AUVs so far to compete at the annual RoboSub event hosted by RoboNation, Inc. (formerly known as the AUVSI Foundation).
 
